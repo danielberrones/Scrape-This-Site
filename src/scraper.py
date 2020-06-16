@@ -13,7 +13,7 @@ soup = BeautifulSoup(r.text,'lxml')
 # with open('scrapeThisSite.html','w') as f:
 #     f.write(str(myHTML))
 
-countryNames = [i for i in soup.find_all("h3", class_="country-name")]
+countryNames = [i.text.strip() for i in soup.find_all("h3", class_="country-name")]
 # countryNames = [soup.find("div", class_="col-md-4 country")]
 # strippedNames = [i.get_text() for i in countryNames]
 
@@ -21,5 +21,7 @@ countryNames = [i for i in soup.find_all("h3", class_="country-name")]
 
 # print(parseText)
 
-for x in countryNames:
-    print(x.text.strip())
+# for x in countryNames:
+#     print(x.text.strip())
+
+print(countryNames[7]=="Angola")
