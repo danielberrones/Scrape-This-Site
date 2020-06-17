@@ -15,10 +15,20 @@ def getCountryAndCapital(soupObject):
     capitals = [i.text.strip() for i in soupObject.find_all("span", class_="country-capital")]
     return dict(zip(countries,capitals))
 
+# PRINT PARSED TEXT TO CONSOLE
+# def parseDict(countryAndCapital):
+    'print parsed text'
+    #for i, (k,v) in enumerate(countryAndCapital.items()):
+    #print(f"{i+1}\n\nCountry: {k}")
+    #print(f"Capital: {v}\n\n")
+
 def parseDict(countryAndCapital):
-    for i, (k,v) in enumerate(countryAndCapital.items()):
-        print(f"{i+1}\n\nCountry: {k}")
-        print(f"Capital: {v}\n\n")
+    'save text to local machine'
+    with open("myData.txt","w") as f:
+        for i, (k,v) in enumerate(countryAndCapital.items()):
+            f.write(str(f"{i+1}\n\nCountry: {k}\nCapital: {v}\n\n"))
+        # print(f"{i+1}\n\nCountry: {k}")
+        # print(f"Capital: {v}\n\n")
 
 def main():
     parseDict(getCountryAndCapital(soupRequest()))

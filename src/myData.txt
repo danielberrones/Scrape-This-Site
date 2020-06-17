@@ -1,0 +1,1250 @@
+1
+
+Country: Andorra
+Capital: Andorra la Vella
+
+2
+
+Country: United Arab Emirates
+Capital: Abu Dhabi
+
+3
+
+Country: Afghanistan
+Capital: Kabul
+
+4
+
+Country: Antigua and Barbuda
+Capital: St. John's
+
+5
+
+Country: Anguilla
+Capital: The Valley
+
+6
+
+Country: Albania
+Capital: Tirana
+
+7
+
+Country: Armenia
+Capital: Yerevan
+
+8
+
+Country: Angola
+Capital: Luanda
+
+9
+
+Country: Antarctica
+Capital: None
+
+10
+
+Country: Argentina
+Capital: Buenos Aires
+
+11
+
+Country: American Samoa
+Capital: Pago Pago
+
+12
+
+Country: Austria
+Capital: Vienna
+
+13
+
+Country: Australia
+Capital: Canberra
+
+14
+
+Country: Aruba
+Capital: Oranjestad
+
+15
+
+Country: Åland
+Capital: Mariehamn
+
+16
+
+Country: Azerbaijan
+Capital: Baku
+
+17
+
+Country: Bosnia and Herzegovina
+Capital: Sarajevo
+
+18
+
+Country: Barbados
+Capital: Bridgetown
+
+19
+
+Country: Bangladesh
+Capital: Dhaka
+
+20
+
+Country: Belgium
+Capital: Brussels
+
+21
+
+Country: Burkina Faso
+Capital: Ouagadougou
+
+22
+
+Country: Bulgaria
+Capital: Sofia
+
+23
+
+Country: Bahrain
+Capital: Manama
+
+24
+
+Country: Burundi
+Capital: Bujumbura
+
+25
+
+Country: Benin
+Capital: Porto-Novo
+
+26
+
+Country: Saint Barthélemy
+Capital: Gustavia
+
+27
+
+Country: Bermuda
+Capital: Hamilton
+
+28
+
+Country: Brunei
+Capital: Bandar Seri Begawan
+
+29
+
+Country: Bolivia
+Capital: Sucre
+
+30
+
+Country: Bonaire
+Capital: Kralendijk
+
+31
+
+Country: Brazil
+Capital: Brasília
+
+32
+
+Country: Bahamas
+Capital: Nassau
+
+33
+
+Country: Bhutan
+Capital: Thimphu
+
+34
+
+Country: Bouvet Island
+Capital: None
+
+35
+
+Country: Botswana
+Capital: Gaborone
+
+36
+
+Country: Belarus
+Capital: Minsk
+
+37
+
+Country: Belize
+Capital: Belmopan
+
+38
+
+Country: Canada
+Capital: Ottawa
+
+39
+
+Country: Cocos [Keeling] Islands
+Capital: West Island
+
+40
+
+Country: Democratic Republic of the Congo
+Capital: Kinshasa
+
+41
+
+Country: Central African Republic
+Capital: Bangui
+
+42
+
+Country: Republic of the Congo
+Capital: Brazzaville
+
+43
+
+Country: Switzerland
+Capital: Bern
+
+44
+
+Country: Ivory Coast
+Capital: Yamoussoukro
+
+45
+
+Country: Cook Islands
+Capital: Avarua
+
+46
+
+Country: Chile
+Capital: Santiago
+
+47
+
+Country: Cameroon
+Capital: Yaoundé
+
+48
+
+Country: China
+Capital: Beijing
+
+49
+
+Country: Colombia
+Capital: Bogotá
+
+50
+
+Country: Costa Rica
+Capital: San José
+
+51
+
+Country: Cuba
+Capital: Havana
+
+52
+
+Country: Cape Verde
+Capital: Praia
+
+53
+
+Country: Curacao
+Capital: Willemstad
+
+54
+
+Country: Christmas Island
+Capital: Flying Fish Cove
+
+55
+
+Country: Cyprus
+Capital: Nicosia
+
+56
+
+Country: Czech Republic
+Capital: Prague
+
+57
+
+Country: Germany
+Capital: Berlin
+
+58
+
+Country: Djibouti
+Capital: Djibouti
+
+59
+
+Country: Denmark
+Capital: Copenhagen
+
+60
+
+Country: Dominica
+Capital: Roseau
+
+61
+
+Country: Dominican Republic
+Capital: Santo Domingo
+
+62
+
+Country: Algeria
+Capital: Algiers
+
+63
+
+Country: Ecuador
+Capital: Quito
+
+64
+
+Country: Estonia
+Capital: Tallinn
+
+65
+
+Country: Egypt
+Capital: Cairo
+
+66
+
+Country: Western Sahara
+Capital: Laâyoune / El Aaiún
+
+67
+
+Country: Eritrea
+Capital: Asmara
+
+68
+
+Country: Spain
+Capital: Madrid
+
+69
+
+Country: Ethiopia
+Capital: Addis Ababa
+
+70
+
+Country: Finland
+Capital: Helsinki
+
+71
+
+Country: Fiji
+Capital: Suva
+
+72
+
+Country: Falkland Islands
+Capital: Stanley
+
+73
+
+Country: Micronesia
+Capital: Palikir
+
+74
+
+Country: Faroe Islands
+Capital: Tórshavn
+
+75
+
+Country: France
+Capital: Paris
+
+76
+
+Country: Gabon
+Capital: Libreville
+
+77
+
+Country: United Kingdom
+Capital: London
+
+78
+
+Country: Grenada
+Capital: St. George's
+
+79
+
+Country: Georgia
+Capital: Tbilisi
+
+80
+
+Country: French Guiana
+Capital: Cayenne
+
+81
+
+Country: Guernsey
+Capital: St Peter Port
+
+82
+
+Country: Ghana
+Capital: Accra
+
+83
+
+Country: Gibraltar
+Capital: Gibraltar
+
+84
+
+Country: Greenland
+Capital: Nuuk
+
+85
+
+Country: Gambia
+Capital: Bathurst
+
+86
+
+Country: Guinea
+Capital: Conakry
+
+87
+
+Country: Guadeloupe
+Capital: Basse-Terre
+
+88
+
+Country: Equatorial Guinea
+Capital: Malabo
+
+89
+
+Country: Greece
+Capital: Athens
+
+90
+
+Country: South Georgia and the South Sandwich Islands
+Capital: Grytviken
+
+91
+
+Country: Guatemala
+Capital: Guatemala City
+
+92
+
+Country: Guam
+Capital: Hagåtña
+
+93
+
+Country: Guinea-Bissau
+Capital: Bissau
+
+94
+
+Country: Guyana
+Capital: Georgetown
+
+95
+
+Country: Hong Kong
+Capital: Hong Kong
+
+96
+
+Country: Heard Island and McDonald Islands
+Capital: None
+
+97
+
+Country: Honduras
+Capital: Tegucigalpa
+
+98
+
+Country: Croatia
+Capital: Zagreb
+
+99
+
+Country: Haiti
+Capital: Port-au-Prince
+
+100
+
+Country: Hungary
+Capital: Budapest
+
+101
+
+Country: Indonesia
+Capital: Jakarta
+
+102
+
+Country: Ireland
+Capital: Dublin
+
+103
+
+Country: Israel
+Capital: None
+
+104
+
+Country: Isle of Man
+Capital: Douglas
+
+105
+
+Country: India
+Capital: New Delhi
+
+106
+
+Country: British Indian Ocean Territory
+Capital: None
+
+107
+
+Country: Iraq
+Capital: Baghdad
+
+108
+
+Country: Iran
+Capital: Tehran
+
+109
+
+Country: Iceland
+Capital: Reykjavik
+
+110
+
+Country: Italy
+Capital: Rome
+
+111
+
+Country: Jersey
+Capital: Saint Helier
+
+112
+
+Country: Jamaica
+Capital: Kingston
+
+113
+
+Country: Jordan
+Capital: Amman
+
+114
+
+Country: Japan
+Capital: Tokyo
+
+115
+
+Country: Kenya
+Capital: Nairobi
+
+116
+
+Country: Kyrgyzstan
+Capital: Bishkek
+
+117
+
+Country: Cambodia
+Capital: Phnom Penh
+
+118
+
+Country: Kiribati
+Capital: Tarawa
+
+119
+
+Country: Comoros
+Capital: Moroni
+
+120
+
+Country: Saint Kitts and Nevis
+Capital: Basseterre
+
+121
+
+Country: North Korea
+Capital: Pyongyang
+
+122
+
+Country: South Korea
+Capital: Seoul
+
+123
+
+Country: Kuwait
+Capital: Kuwait City
+
+124
+
+Country: Cayman Islands
+Capital: George Town
+
+125
+
+Country: Kazakhstan
+Capital: Astana
+
+126
+
+Country: Laos
+Capital: Vientiane
+
+127
+
+Country: Lebanon
+Capital: Beirut
+
+128
+
+Country: Saint Lucia
+Capital: Castries
+
+129
+
+Country: Liechtenstein
+Capital: Vaduz
+
+130
+
+Country: Sri Lanka
+Capital: Colombo
+
+131
+
+Country: Liberia
+Capital: Monrovia
+
+132
+
+Country: Lesotho
+Capital: Maseru
+
+133
+
+Country: Lithuania
+Capital: Vilnius
+
+134
+
+Country: Luxembourg
+Capital: Luxembourg
+
+135
+
+Country: Latvia
+Capital: Riga
+
+136
+
+Country: Libya
+Capital: Tripoli
+
+137
+
+Country: Morocco
+Capital: Rabat
+
+138
+
+Country: Monaco
+Capital: Monaco
+
+139
+
+Country: Moldova
+Capital: Chişinău
+
+140
+
+Country: Montenegro
+Capital: Podgorica
+
+141
+
+Country: Saint Martin
+Capital: Marigot
+
+142
+
+Country: Madagascar
+Capital: Antananarivo
+
+143
+
+Country: Marshall Islands
+Capital: Majuro
+
+144
+
+Country: Macedonia
+Capital: Skopje
+
+145
+
+Country: Mali
+Capital: Bamako
+
+146
+
+Country: Myanmar [Burma]
+Capital: Naypyitaw
+
+147
+
+Country: Mongolia
+Capital: Ulan Bator
+
+148
+
+Country: Macao
+Capital: Macao
+
+149
+
+Country: Northern Mariana Islands
+Capital: Saipan
+
+150
+
+Country: Martinique
+Capital: Fort-de-France
+
+151
+
+Country: Mauritania
+Capital: Nouakchott
+
+152
+
+Country: Montserrat
+Capital: Plymouth
+
+153
+
+Country: Malta
+Capital: Valletta
+
+154
+
+Country: Mauritius
+Capital: Port Louis
+
+155
+
+Country: Maldives
+Capital: Malé
+
+156
+
+Country: Malawi
+Capital: Lilongwe
+
+157
+
+Country: Mexico
+Capital: Mexico City
+
+158
+
+Country: Malaysia
+Capital: Kuala Lumpur
+
+159
+
+Country: Mozambique
+Capital: Maputo
+
+160
+
+Country: Namibia
+Capital: Windhoek
+
+161
+
+Country: New Caledonia
+Capital: Noumea
+
+162
+
+Country: Niger
+Capital: Niamey
+
+163
+
+Country: Norfolk Island
+Capital: Kingston
+
+164
+
+Country: Nigeria
+Capital: Abuja
+
+165
+
+Country: Nicaragua
+Capital: Managua
+
+166
+
+Country: Netherlands
+Capital: Amsterdam
+
+167
+
+Country: Norway
+Capital: Oslo
+
+168
+
+Country: Nepal
+Capital: Kathmandu
+
+169
+
+Country: Nauru
+Capital: Yaren
+
+170
+
+Country: Niue
+Capital: Alofi
+
+171
+
+Country: New Zealand
+Capital: Wellington
+
+172
+
+Country: Oman
+Capital: Muscat
+
+173
+
+Country: Panama
+Capital: Panama City
+
+174
+
+Country: Peru
+Capital: Lima
+
+175
+
+Country: French Polynesia
+Capital: Papeete
+
+176
+
+Country: Papua New Guinea
+Capital: Port Moresby
+
+177
+
+Country: Philippines
+Capital: Manila
+
+178
+
+Country: Pakistan
+Capital: Islamabad
+
+179
+
+Country: Poland
+Capital: Warsaw
+
+180
+
+Country: Saint Pierre and Miquelon
+Capital: Saint-Pierre
+
+181
+
+Country: Pitcairn Islands
+Capital: Adamstown
+
+182
+
+Country: Puerto Rico
+Capital: San Juan
+
+183
+
+Country: Palestine
+Capital: None
+
+184
+
+Country: Portugal
+Capital: Lisbon
+
+185
+
+Country: Palau
+Capital: Melekeok
+
+186
+
+Country: Paraguay
+Capital: Asunción
+
+187
+
+Country: Qatar
+Capital: Doha
+
+188
+
+Country: Réunion
+Capital: Saint-Denis
+
+189
+
+Country: Romania
+Capital: Bucharest
+
+190
+
+Country: Serbia
+Capital: Belgrade
+
+191
+
+Country: Russia
+Capital: Moscow
+
+192
+
+Country: Rwanda
+Capital: Kigali
+
+193
+
+Country: Saudi Arabia
+Capital: Riyadh
+
+194
+
+Country: Solomon Islands
+Capital: Honiara
+
+195
+
+Country: Seychelles
+Capital: Victoria
+
+196
+
+Country: Sudan
+Capital: Khartoum
+
+197
+
+Country: Sweden
+Capital: Stockholm
+
+198
+
+Country: Singapore
+Capital: Singapore
+
+199
+
+Country: Saint Helena
+Capital: Jamestown
+
+200
+
+Country: Slovenia
+Capital: Ljubljana
+
+201
+
+Country: Svalbard and Jan Mayen
+Capital: Longyearbyen
+
+202
+
+Country: Slovakia
+Capital: Bratislava
+
+203
+
+Country: Sierra Leone
+Capital: Freetown
+
+204
+
+Country: San Marino
+Capital: San Marino
+
+205
+
+Country: Senegal
+Capital: Dakar
+
+206
+
+Country: Somalia
+Capital: Mogadishu
+
+207
+
+Country: Suriname
+Capital: Paramaribo
+
+208
+
+Country: South Sudan
+Capital: Juba
+
+209
+
+Country: São Tomé and Príncipe
+Capital: São Tomé
+
+210
+
+Country: El Salvador
+Capital: San Salvador
+
+211
+
+Country: Sint Maarten
+Capital: Philipsburg
+
+212
+
+Country: Syria
+Capital: Damascus
+
+213
+
+Country: Swaziland
+Capital: Mbabane
+
+214
+
+Country: Turks and Caicos Islands
+Capital: Cockburn Town
+
+215
+
+Country: Chad
+Capital: N'Djamena
+
+216
+
+Country: French Southern Territories
+Capital: Port-aux-Français
+
+217
+
+Country: Togo
+Capital: Lomé
+
+218
+
+Country: Thailand
+Capital: Bangkok
+
+219
+
+Country: Tajikistan
+Capital: Dushanbe
+
+220
+
+Country: Tokelau
+Capital: None
+
+221
+
+Country: East Timor
+Capital: Dili
+
+222
+
+Country: Turkmenistan
+Capital: Ashgabat
+
+223
+
+Country: Tunisia
+Capital: Tunis
+
+224
+
+Country: Tonga
+Capital: Nuku'alofa
+
+225
+
+Country: Turkey
+Capital: Ankara
+
+226
+
+Country: Trinidad and Tobago
+Capital: Port of Spain
+
+227
+
+Country: Tuvalu
+Capital: Funafuti
+
+228
+
+Country: Taiwan
+Capital: Taipei
+
+229
+
+Country: Tanzania
+Capital: Dodoma
+
+230
+
+Country: Ukraine
+Capital: Kiev
+
+231
+
+Country: Uganda
+Capital: Kampala
+
+232
+
+Country: U.S. Minor Outlying Islands
+Capital: None
+
+233
+
+Country: United States
+Capital: Washington
+
+234
+
+Country: Uruguay
+Capital: Montevideo
+
+235
+
+Country: Uzbekistan
+Capital: Tashkent
+
+236
+
+Country: Vatican City
+Capital: Vatican City
+
+237
+
+Country: Saint Vincent and the Grenadines
+Capital: Kingstown
+
+238
+
+Country: Venezuela
+Capital: Caracas
+
+239
+
+Country: British Virgin Islands
+Capital: Road Town
+
+240
+
+Country: U.S. Virgin Islands
+Capital: Charlotte Amalie
+
+241
+
+Country: Vietnam
+Capital: Hanoi
+
+242
+
+Country: Vanuatu
+Capital: Port Vila
+
+243
+
+Country: Wallis and Futuna
+Capital: Mata-Utu
+
+244
+
+Country: Samoa
+Capital: Apia
+
+245
+
+Country: Kosovo
+Capital: Pristina
+
+246
+
+Country: Yemen
+Capital: Sanaa
+
+247
+
+Country: Mayotte
+Capital: Mamoudzou
+
+248
+
+Country: South Africa
+Capital: Pretoria
+
+249
+
+Country: Zambia
+Capital: Lusaka
+
+250
+
+Country: Zimbabwe
+Capital: Harare
+
