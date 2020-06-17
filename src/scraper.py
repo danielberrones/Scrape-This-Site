@@ -3,12 +3,14 @@ from bs4 import BeautifulSoup
 
 
 def soupRequest():
+    'returns soup object after get request is made'
     url = 'https://scrapethissite.com/pages/simple/'
     r = requests.get(url)
     soup = BeautifulSoup(r.text,'lxml')
     return soup
 
 def getCountryAndCapital(soupObject):
+    'returns dict object of country and capitals'
     countries = [i.text.strip() for i in soupObject.find_all("h3", class_="country-name")]
     capitals = [i.text.strip() for i in soupObject.find_all("span", class_="country-capital")]
     return dict(zip(countries,capitals))
