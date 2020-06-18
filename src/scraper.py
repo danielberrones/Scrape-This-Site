@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 
 def soupRequest():
-    'returns soup object after get request is made'
+    'returns soup object after get request'
     url = 'https://scrapethissite.com/pages/simple/'
     r = requests.get(url)
     soup = BeautifulSoup(r.text,'lxml')
